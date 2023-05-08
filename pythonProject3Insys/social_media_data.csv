@@ -1,0 +1,15 @@
+text,sentiment
+I love this product!,positive
+Just tried this for the first time and it's amazing!,positive
+I'm not sure how I feel about this product. It's okay.,neutral
+This is the worst thing I've ever purchased. Do not buy.,negative
+"I love this movie, it's my favorite.",positive
+"This food is delicious, I would definitely recommend.",positive
+I had a terrible experience at this restaurant.,negative
+The customer service here is amazing.,positive
+The product did not work as advertised.,negative
+The book was boring and difficult to read.,negative
+"I can't stop listening to this song, it's so catchy.",positive
+The hotel room was dirty and uncomfortable.,negative
+"This painting is beautiful, it takes my breath away.",positive
+you're so ugly,negative
